@@ -1,0 +1,70 @@
+Ingredientes:
+    Miojo, ovos, queijo e verduras.
+
+Preparo: 
+1 coloque o fogo para ferver.
+2 coloque as 4 colheres de catchup e mexa.
+3 depois quando a água estiver fervendo ponhe o molho.
+4 em seguida coloque o ovo e as verduras.
+5 depois rale a mussarela em cima do miojo.
+
+# Categorias de Alimentos
+
+## Frutas
+- Frutas frescas
+- Frutas secas
+- Frutas congeladas
+
+## Vegetais
+- Vegetais folhosos
+- Vegetais de raiz
+- Legumes
+- Vegetais congelados
+
+## Grãos e Cereais
+- Arroz
+- Massas
+- Aveia e cereais
+- Quinoa e outros grãos
+
+## Proteínas
+- Carnes vermelhas
+- Aves
+- Peixes e frutos do mar
+- Ovos
+- Tofu e proteínas vegetais
+
+## Laticínios
+- Leite
+- Queijos
+- Iogurte
+- Manteiga e margarina
+
+## Pães e Produtos de Padaria
+- Pães
+- Bolos
+- Biscoitos e bolachas
+
+## Enlatados e Conservas
+- Legumes enlatados
+- Frutas em conserva
+- Atum e sardinha
+
+## Bebidas
+- Água
+- Sucos
+- Refrigerantes
+- Bebidas alcoólicas
+- Café e chá
+
+## Snacks e Doces
+- Chocolates
+- Balas e doces
+- Salgadinhos
+- Nozes e sementes
+
+## Condimentos e Temperos
+- Sal e pimenta
+- Ervas e especiarias
+- Molhos e azeites
+- Vinagres
